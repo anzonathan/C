@@ -6,4 +6,6 @@ Class assignments from my lectures in my structured programming course, which is
 4. 'tmp_converter.sb3' is a Scratch program that converts temperature
 5. 'Tmp_Converter + Bonus.c' is a C program that can convert Celsius, Fahrenheit, or Kelvin degrees and comes with a bit of error handling.
 6. 'Chase Bank.c' a C program to simulate ATM Transactions
-7. 25 Problem Sets
+7. '25 Problems.c' a program with 25 Problem Sets
+8. 'Generations.c' a program that tells you which social generation you are a part of
+   
