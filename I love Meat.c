@@ -8,9 +8,9 @@ t
 
 int main () {
 
-   char *meat[5] = {"Pork","Chicken","Beef","Fish","Goat"};
+   char *meat[5] = {"Pork","Chicken","Beef","Fish","Goat"}; //one dimensional array
 
-   printf("Enter '1' if you eat the Meat that appears and Enter '2' if you do not.");
+   printf("Enter '1' if you eat the Meat that appears and Enter '2' if you do not."); //answer guidelines
 
 
    for (int i=0; i <= 4; i++){
