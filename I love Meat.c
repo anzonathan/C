@@ -3,7 +3,7 @@
 
 //Description: This program uses a for loop to run through a list of kidns of meet, and breaks when you dont like the meat option.
 
-t
+
 #include <stdio.h>
 
 int main () {
