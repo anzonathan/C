@@ -1,12 +1,12 @@
 //Author: Nathaniel Mugenyi
 //Date: 30th, June, 2024
 
-//Description: Tutorial 2 - Decision Making Statement
+//Description: Tutorial 2 - Decision Making Statements
 
 
 //P4-1. Read in a number x and print if the number is even or odd.
 /*
-
+#include <stdio.h>
 #include <string.h> //Library to use strcpy funtion to reassign strings
 
 int main() {
