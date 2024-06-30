@@ -12,5 +12,7 @@ Class assignments from my lectures in my structured programming course, which is
 10. 'I love Meat.c' a program that gives you options of meat and ends when you do not like the option.
 11. 'Inventory.c' a program that lets you manage your inventory by adding items, updating quantities, and calculating total cost for inventory items.
 12. 'Decision Making Statements.c ' a program that explores decision making problems in C.
+13. 'While Loops -1.c' a set of while loop problems.
+14. 'For Loops -1.c' a set of for loop problems.
 
    
