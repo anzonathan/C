@@ -11,4 +11,6 @@ Class assignments from my lectures in my structured programming course, which is
 9. 'Tables.c' a program that generates multiplication tables with a nested for loop .
 10. 'I love Meat.c' a program that gives you options of meat and ends when you do not like the option.
 11. 'Inventory.c' a program that lets you manage your inventory by adding items, updating quantities, and calculating total cost for inventory items.
+12. 'Decision Making Statements.c ' a program that explores decision making problems in C.
+
    
