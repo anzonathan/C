@@ -511,7 +511,7 @@ int main (){
 }
 */
 
-//Problem 23 - Write a program that will that will read in a value M, which represents a value in MINUTES and displays the number ofdays, minutes and seconds ti represents.
+//Problem 23 - Write a program that will that will read in a value M, which represents a value in MINUTES and displays the number ofdays, minutes and seconds it represents.
 
 /*
 int main (){

@@ -15,5 +15,6 @@ Class assignments from my lectures in my structured programming course, which is
 13. 'While Loops -1.c' a set of while loop problems.
 14. 'For Loops -1.c' a set of for loop problems.
 15. 'beep.c' code that beeps 
+16. 'minutes.c' converts minutes into days, hours, and seconds
 
    
