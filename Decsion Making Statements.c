@@ -139,12 +139,15 @@ int main() {
 
     if ((A || B || C) != (A || B || C)){
 
-        printf("Numbers are unique.");
+        printf("Numbers are not unique.");
+
     }
 
     else if ((A || B || C) == (A || B || C)){
 
-        printf("Numbers are not unique.");
+        
+        printf("Numbers are unique.");
+        
     }
 }
 */
