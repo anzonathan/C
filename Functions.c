@@ -119,11 +119,6 @@ int main() {
     }
 
 
-
-
-
-
-
 }
 
 
@@ -135,6 +130,53 @@ float Radius(int a){
 }
 
 
+*/
+
+/*
+P8-5
+Write a C Function called
+Sum3 (N: Integer): Integer;
+which calculates the sum of the multiples
+of 3 from 1 - N. For example, if N= 16, the ruinctionmustreturnrhesumorthe
+sequence: 3 +6 +9 +12 +1 5=45
+Use this function to print a table of values from 100 to 110 of these sums*/
+
+
+/*
+#include <stdio.h>
+#include <math.h>
+
+int Sum3(int n);
+
+int main() {
+
+    printf("N   | Sum");
+
+    for (int i = 100; i <= 110; i++ ){
+
+        printf("\n%d | %d",i,Sum3(i) );
+
+    }
+
+
+}
+
+int Sum3(int n){
+
+    int sum = 0;
+
+    for (int i = 3; i <= n; i++){
+
+        if ((i%3)==0){
+
+            sum += i;
+        }
+
+
+    }
+
+    return sum;
+}
 */
 
 //P8-7 Function Prime ( x : Integer ):Boolean; This function decides if the integer x is a prime number or not. Remember that a prime number has only TWO factors, itself and 1.
