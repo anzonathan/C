@@ -95,6 +95,48 @@ float fahrenheit(int c){ //parabola function
 }
 */
 
+/*
+P8-4 Write a C Function called Radius (Area: Integer): Real;
+to calculate the radius of a circle, if you are given the Area of the circle.
+The area of acircle is given by the following formula: A = m2.
+Use this function to print a table of values of Area versus radius for the range of area 10 - 20, correct to ONE decimal place.
+*/
+
+/*
+#include <stdio.h>
+#include <math.h>
+
+float Radius(int a);
+
+int main() {
+
+    printf("A  | r");
+
+    for (int i = 10; i <= 20; i++ ){
+
+        printf("\n%d | %.2f",i,Radius(i) );
+
+    }
+
+
+
+
+
+
+
+}
+
+
+float Radius(int a){
+
+    float r = sqrtf(a/M_PI);//radius
+
+    return r;
+}
+
+
+*/
+
 //P8-7 Function Prime ( x : Integer ):Boolean; This function decides if the integer x is a prime number or not. Remember that a prime number has only TWO factors, itself and 1.
 //Use this function to PRINT AND COUNT how many years in the 20'th century are prime numbers. [Answer = 13]
 /*
