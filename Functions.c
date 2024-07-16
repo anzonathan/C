@@ -144,7 +144,6 @@ Use this function to print a table of values from 100 to 110 of these sums*/
 
 /*
 #include <stdio.h>
-#include <math.h>
 
 int Sum3(int n);
 
