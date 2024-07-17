@@ -17,5 +17,8 @@ Class assignments from my lectures in my structured programming course, which is
 15. 'beep.c' code that beeps 
 16. 'minutes.c' converts minutes into days, hours, and seconds
 17. 'reverse.c' a reverse string funciton 
+18. 'Electric Bill.c' a program to calculate your electricity bill  
+19. 'Functions.c' a program with examples of c functions
+ 
 
    
