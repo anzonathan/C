@@ -1,3 +1,6 @@
+//Author: Nathaniel Mugenyi
+
+
 //P8-1 FunctionMin( a , b :integer) :integer: which returns the minimum value of a and b e.g. Min(12,6) = 6
 /*
 #include<stdio.h>
