@@ -21,7 +21,7 @@ Class assignments from my lectures in my structured programming course, which is
 19. 'Functions.c' a program with examples of c functions
 20. 'Switch.c' a switch program 
 21. 'Int Pointers.c' - Pointers with Integers
-22. 'Test on Pointers and Functions' A test I did that delt with Pointers and Functions
+22. 'Test on Functions and Pointers' A test I did that delt with Pointers and Functions
  
 
    
