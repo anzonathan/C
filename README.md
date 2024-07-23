@@ -20,7 +20,8 @@ Class assignments from my lectures in my structured programming course, which is
 18. 'Electric Bill.c' a program to calculate your electricity bill  
 19. 'Functions.c' a program with examples of c functions
 20. 'Switch.c' a switch program 
-21. 'Int Pointers.c' - Pointers with Integers 
+21. 'Int Pointers.c' - Pointers with Integers
+22. 'Practical Test' A test I did that delt with Pointers and Functions
  
 
    
