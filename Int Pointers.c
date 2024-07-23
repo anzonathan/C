@@ -3,7 +3,9 @@
 
 //Description: Pointers with Integers 
 
+
 #include <stdio.h>
+#include <stdlib.h> //to use sizeof
 
 int main() {
 
@@ -14,4 +16,7 @@ int main() {
 
     printf("Pointer Address: %p", pointer);//pointer address
     printf("\nPointer Value: %d", *pointer);//pointer value
+
+    printf("\nVar Size in  Bytes: %lu", sizeof(var));//var size
+    printf("\nPointer Size in  Bytes: %lu", sizeof(*pointer));//pointer value
 }
