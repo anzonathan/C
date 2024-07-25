@@ -22,6 +22,7 @@ Class assignments from my lectures in my structured programming course, which is
 20. 'Switch.c' a switch program 
 21. 'Int Pointers.c' - Pointers with Integers
 22. 'Test on Functions and Pointers' A test I did that delt with Pointers and Functions
+23. 'Traingles.c' A program that classifies triangles using functions
  
 
    
