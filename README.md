@@ -1,4 +1,4 @@
-Class assignments from my lectures in my structured programming course, which is in C.
+## Class assignments from my lectures in my structured programming course, which is in C.
 
 1. 'FizzBuzz.c' is a C program that detects multiples
 2. 'Tmp_Converter.c' is a C program that can convert Celisus degrees to Fahrenheit or vice versa.
